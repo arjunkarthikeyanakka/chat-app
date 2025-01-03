@@ -1,0 +1,11 @@
+express - to initialize the Express server
+
+dotenv - to read environment variables
+
+bcryptjs - to hash passwords
+
+mongoose - to interact with our db
+
+socket.io - to enable real-time communication between the server and the client
+
+jsonwebtoken - to handle user authentication and authorization
